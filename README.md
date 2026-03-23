@@ -293,7 +293,7 @@ Six comprehensive visualizations were produced in the notebook:
 
 A detailed written report documenting the entire analysis, methodology, and conclusions is available below:
 
-> 📎 **[Click here to view the full project report — PDF](./Data_Science_Final_Report.pdf)**
+> 📎 **[Click here to view the full project report — PDF](./data_science_final_report.pdf)**
 
 The report covers: Executive Summary · Dataset Description · Methodology · EDA · Visualizations · Predictive Modeling · Results Interpretation · Reflection · Conclusions & Recommendations.
 
